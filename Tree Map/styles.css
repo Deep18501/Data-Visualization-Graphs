@@ -1,0 +1,33 @@
+html,
+body {
+  margin: 0;
+  margin-top: 0.5em;
+  padding: 0;
+}
+svg {
+  font: 10px sans-serif;
+  text-align: center;
+  display: block;
+  margin: auto;
+}
+body {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#title {
+  font-size: 45px;
+  margin-bottom: 10px;
+}
+
+#description {
+  padding-bottom: 1.5rem;
+}
+#legend {
+  font-size: 15px;
+  text-align: center;
+  display: block;
+  margin: auto;
+  padding-bottom: 5px;
+  margin-bottom: 2rem;
+  margin-top: 1rem;
+}
