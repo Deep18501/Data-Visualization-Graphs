@@ -16,7 +16,7 @@ var url =
   "https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/global-temperature.json";
 
 var width = 800,
-  height = 400,
+  height = 410,
   padding = 100;
 var dataset = [];
 
